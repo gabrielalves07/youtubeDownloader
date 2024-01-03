@@ -11,4 +11,4 @@ const config = {
 
 ytmp3.download(config);
 
-// run this command in your terminal: node example.js
+// run this command in your terminal: node download.js
